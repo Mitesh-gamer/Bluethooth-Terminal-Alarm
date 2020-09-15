@@ -3,7 +3,7 @@ uno and display in this application.It is cooded for ultrasonic sensor where it 
 range of 30 cm near to the ultrasonic sensor. This application will alarm when the data received in application
 is specific word as "alarm" or "Alarm" or "ALARM".
 <br>
-<img src="Screenshot_20200915-184223.png">
+<img src="Screenshot_20200915-184223.png" height="500" width="300">
 <br>
 
-<img src="IMG-20200719-WA0002.jpg" >
+<img src="IMG-20200719-WA0002.jpg" height="500" width="300" >
