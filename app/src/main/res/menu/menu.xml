@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="Custom Alert Sound"
+        android:id="@+id/alarmpath"
+        />
+    <item android:title="Default Alert Sound"
+        android:id="@+id/alarmdefault"/>
+     <item android:title="musicprofile"
+        android:icon="@drawable/alerton"
+        app:showAsAction="always"
+        android:id="@+id/alersoundprofile"
+        />
+
+     <item android:title="musicprofile"
+        android:icon="@drawable/ic_info_outline_black_24dp"
+        app:showAsAction="always"
+        android:id="@+id/about"
+        />
+
+</menu>
